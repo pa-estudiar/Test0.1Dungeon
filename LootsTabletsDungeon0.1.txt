@@ -91,7 +91,11 @@ Siganls:
   IluminarNivel(Junta los 4 FarolA al FarolD en un solo signal)
   laberintoFin(Llegar hasta el final del laberinto)
   JefeWarden(MatarAlWarden)
-  PilarA,B,C(ColocarPilaresArribaDelTodo)
+  PilaresDeArriba(Pilar A,B y C Colocados arriba del todo)
+  Oleada6AComp(Confirmacion de la oleada 6A completado)
+  Oleada6BComp(Confirmacion de la oleada 6B completado)
+  OleadasZonaMediumComp(Confirmacion de la oleada 6A y 6B completados)
+  ZonaDeLaTorreComp(Completado la zona de la torre)
   JefeForoth(Matar a foroth)
   TorreA(Activa al Ravager en la isla dragon)[light_gray_stained_glass]
   TorreB(Activa al WitherSkeleton en la isla dragon)[gray_stained_glass]
