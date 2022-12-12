@@ -24,49 +24,117 @@ Pociones Cura o Prote{Mejorado}(11)
 
 LootTablets:
 ZonaEasyComp[Okey]:
-
+- flechas [9] (21)
+- Manzana de oro [2] (11)
+- filetes [6] (21)
+- velas [5] (16)
+- lingote de hierro [5] (16)
+- lingote de oro [4] (16)
+- lingote de diamante [2] (11)
+- cristal negro [8] (21)
+- semilla [10] (21)
+- carne de zombi [7] (21) 
+- tela de araña [15] (21)
 ZonaMediumComp:
-
+- Manzana de oro [3] (11)
+- lingote de hierro [5] (16)
+- lingote de oro [7] (16)
+- lingote de diamante [4] (11)
+- hueso [11] (21)
+- carne de zombi [9] (21)
 ZonaHardComp:
-
+- manzana dorada [5] (11)
+- bloques de diamante [2] (11)
+- lingote de netherite [1] (6)
+- manzana dorada encantada [2] (6) 
 -----------------------------------------
 
 OleadaComp4[Okey]:
-
+- filete asado [5] 
+- madera [10]
+- manzana dorada [2]  
+- flechas [8] 
 OleadaComp6A:
-
+- pan [8]
+- manzana dorada [2] 
+- lingote de hierro [3]
+- flechas [8]   
 OleadaComp6B:
-
+- manzana dorada [2] 
+- salmon ahumado [5]
+- flechas [4]
+- tela de araña [9]
 OleadaComp8A:
-
+- salmon ahumado [5]
+- flechas [4]
+- diamante [2]
+- manzana dorada [2]  
+- tela de araña [9]
 OleadaComp8B:
-
+- manzana dorada [2] 
+- flechas [4]
+- diamante [2] 
+- lingote de hierro [4]
+- pan [5] 
 OleadaNetherAndEnd:
-
+- fagmento de netherite [2] 
+- manzana dorada [2]
+- flechas [8]
+- diamante [2]
+- filete asado [5]
+- cabeza de wither [1]
 OleadaCompFinal[Okey]:
-
+- manzana dorada [2] 
+- fagmento de netherite [2] 
+- velas [16]
+- diamante [2] 
+- flechas [8]
+- tela de araña [10]
+- manzana dorada encantada [1]
 -----------------------------------------
-
 JefesKillV:
-
+- manzanas doradas [3]
+- bloques de hierro [3]
+- pan [10]
+- velas [16]
 JefesKillVO:
-
+- manzan dorada [2]
+- farol [15]
+- cama [1]
+- diamantes [5]
 JefesKillMB:
-
+- manzan dorada [2]
+- velas [16]
+- filete asado [5]
+- bloque de esmeralda [9]
 JefesKillMA[Okey]:
-
+- manzan dorada [2]
+- filete asado [5]
+- bloque de cuarzo [10]
+- manzan dorada encantada [2]
+- lingote de netherite [1]
 ------------------------------------------
 CofresLapiz {
   MatarMobBasico:
-
+- pan [10]
+- lingote de hierro [5]
+- tela de araña [15]
   MatarMobComplejo:
-
+- lingote de oro [5]
+- filete asado [5]
+- carne de zombi [9]
   MatarVariosMobs:
-
+- hueso [6]
+- lapiz [7]
+- manzana dorada [2]
   MatarYPuzzle1[Okey]:
-
+- diamante [2]
+- carne de zombi [9]
+- hueso [3]
   MatarYPuzzle2:
-
+- diamante [2]
+- tela de araña [9]
+- hueso [3]
   MatarYPuzzle4:
 
 }
@@ -74,7 +142,9 @@ CofresLapiz {
 ------------------------------------------
 
 CofresComunes[Okey]:
-
+- flechas [9]
+- pan [10]
+- carne de zombi [9]
 ------------------------------------------
 
 Nombre de la siganl que se envia y en
