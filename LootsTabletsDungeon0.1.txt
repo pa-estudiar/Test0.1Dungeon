@@ -1,0 +1,132 @@
+Pon en - los items, [] la cantidad y 
+() la calidad del item
+
+Raresa de items:
+21 comun
+16 raro
+11 epico
+6 legendario
+1 mistico
+
+--------------------------------------
+
+Raresa de Items:
+Combo de +Vida Epica (1)
+Manzana Encantada (1)
+Comida cocinada(21)
+Comida cruda(21)
+Comida de oro(16)
+Comida en platos(21)
+Pociones Cura o Prote(16)
+Pociones Cura o Prote{Mejorado}(11)
+
+----------------------------------------
+
+LootTablets:
+ZonaEasyComp[Okey]:
+
+ZonaMediumComp:
+
+ZonaHardComp:
+
+-----------------------------------------
+
+OleadaComp4[Okey]:
+
+OleadaComp6A:
+
+OleadaComp6B:
+
+OleadaComp8A:
+
+OleadaComp8B:
+
+OleadaNetherAndEnd:
+
+OleadaCompFinal[Okey]:
+
+-----------------------------------------
+
+JefesKillV:
+
+JefesKillVO:
+
+JefesKillMB:
+
+JefesKillMA[Okey]:
+
+------------------------------------------
+CofresLapiz {
+  MatarMobBasico:
+
+  MatarMobComplejo:
+
+  MatarVariosMobs:
+
+  MatarYPuzzle1[Okey]:
+
+  MatarYPuzzle2:
+
+  MatarYPuzzle4:
+
+}
+
+------------------------------------------
+
+CofresComunes[Okey]:
+
+------------------------------------------
+
+Nombre de la siganl que se envia y en
+() de que es o que se necesita para
+que se active
+Siganls:
+  OleadaComp4(Oleada de 4 levels completado)
+  Wingardium leviosa(Puzzle en la plaza de la aldea)
+  PurificarIglesia(Limpia la iglesia de los evokers)
+  Tp(para que puedan recoger las cosas antes de irse del nivel)
+  ColReconstruida(Junta las 4 ColuA al ColuD en un solo signal)
+  ColocarLibrerias(Junta las 3 Lib1 al Lib3 en un solo signal)
+  MesaArqueros(Colocar dos mesas de arqueros)
+  IluminarNivel(Junta los 4 FarolA al FarolD en un solo signal)
+  laberintoFin(Llegar hasta el final del laberinto)
+  JefeWarden(MatarAlWarden)
+  PilarA,B,C(ColocarPilaresArribaDelTodo)
+  JefeForoth(Matar a foroth)
+  TorreA(Activa al Ravager en la isla dragon)[light_gray_stained_glass]
+  TorreB(Activa al WitherSkeleton en la isla dragon)[gray_stained_glass]
+  TorreC(Activa al Warden en la isla dragon)[blue_stained_glass]
+  TorreD(Activa al Wither en la isla dragon)[black_stained_glass]
+  TorreE(Activa al Enderman en la isla dragon)[magenta_stained_glass]
+  TorreF(Activa al End Dragon en la isla dragon)[purple_stained_glass]
+  CKR(Confirmacion de muerte del Ravager)[80]
+  CKWS(Confirmacion de muerte de WitherSkeleton)[80]
+  CKWn(Confirmacion de muerte del Warden)[80]
+  CKWr(Confirmacion de muerte del Wither)[80]
+  CKEn(Confirmacion de muerte de Enderman)[80]
+  CKED(Confirmacion de muerte del End Dragon)[80]
+  mantenimiento(Poner cuando estamos terminando una zona o reparando un bug)
+
+-------------------------------------------
+
+Alf1
+Alf2
+Alf3
+Alf4
+Alf5
+
+--------------------------------------------
+
+Testeado:
+Oleada4(Okey)[Puerta, texto, mobs y titulo]
+OleadaComp8A(Okey)[Puerta. texto y mobs]
+CofresComunes(Okey)[Dan y tiene su cooldoown correcto]
+OleadaComp8B(Okey)[Mobs, tp bien, solo falta arreglar el texto]
+OleadaCompFinal(Hasta los piglin brute estan bien)[Arreglar la parte del dragon] 
+BossForoth(Okey)[Funciona su invocacion correctamente, falta arreglar la musica]
+BossWarden(Okey)[Funciona todo correctamente]
+
+----------------------------------------------
+
+Por el momento dos niveles de puzzles cerrados por bug
+
