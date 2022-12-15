@@ -175,7 +175,22 @@ Siganls:
   CKWr(Confirmacion de muerte del Wither)[80]
   CKEn(Confirmacion de muerte de Enderman)[80]
   CKED(Confirmacion de muerte del End Dragon)[80]
+
+  Navidad:
+     husk(confirmacion de muerte del husk)[80]15*
+     creeper(confirmacion de muerte del creeper)[80]5*
+     enderman(confirmacion de muerte del enderman)[80]12*
+     vincador(confirmacion de muerte del vincador)[80]18*
+     cave_spider(confirmacion de muerte del cave_spider)[80]16*
+     skeleton(confirmacion de muerte del skeleton)[80]16*
+     witherskeleton(confirmacion de muerte del witherskeleton)[80]10*
+     ghast(confirmacion de muerte del ghast)[80]3*
+     ravager(confirmacion de muerte del ravager)[80]3*
+     zoglin(cpnfirmacion de muerte zoglin)[80]8*
+     warden(confirmacion de muerte del warden)[80]2*
+
   mantenimiento(Poner cuando estamos terminando una zona o reparando un bug)
+
 
 -------------------------------------------
 
