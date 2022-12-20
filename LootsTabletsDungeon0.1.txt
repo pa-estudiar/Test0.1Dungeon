@@ -162,6 +162,14 @@ Siganls:
   laberintoFin(Llegar hasta el final del laberinto)
   JefeWarden(MatarAlWarden)
   PilarA,B,C(ColocarPilaresArribaDelTodo)
+  Lvl1(Comienzo del hechicero lvl bajo)
+  hechiceroMuerto1(Muerte del hechirero lvl bajo)[Lo completaste!, vuelve al pilar y sigue hasta el final [25% Comp]]
+  Lvl2(Comienzo del hechicero lvl medio)
+  hechiceroMuerto2(Muerte del hechicero lvl medio)[Lo completaste!, vuelve al pilar y sigue hasta el final [50% Comp]]
+  Lvl3(Comienzo del hechicero lvl dificil)
+  hechiceroMuerto3(Muerte del hechiero lvl dificil)[Lo completaste!, vuelve al pilar y sigue hasta el final [75% Comp]]
+  Lvl4(Comienzo del hechicero lvl hardcore)
+  hechiceroMuerto4(Muerte del hechiero lvl hardcore)[Lo completaste!, vuelve al pilar y acercate al npc [Comp 100%!!]]
   JefeForoth(Matar a foroth)
   TorreA(Activa al Ravager en la isla dragon)[light_gray_stained_glass]
   TorreB(Activa al WitherSkeleton en la isla dragon)[gray_stained_glass]
